@@ -1,0 +1,1 @@
+O presente código traz um jogo da memória escrito em VHDL para o laboratório de Sistemas Digitais. Esse código foi testado na placa FPGA Xilinx Spartan 3AN Starter Kit, para rodar ele, rode o arquivo lcd em ISE Project Navigator.
